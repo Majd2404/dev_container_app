@@ -15,3 +15,11 @@ This is a test project to explore and understand **Rails Dev Containers**. It he
    ```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/dev_container_app.git
    cd dev_container_app
+2. Open the project in VS Code.
+
+3. Use Dev Containers: Rebuild and Reopen in Container:
+
+   Open the Command Palette (Ctrl + Shift + P / Cmd + Shift + P on Mac).
+   Search for "Dev Containers: Rebuild and Reopen in Container" and select it.
+
+4. Once the container is built, run Rails commands inside the Dev Container.
